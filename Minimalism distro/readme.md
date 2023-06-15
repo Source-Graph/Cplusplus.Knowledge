@@ -1,0 +1,1 @@
+- [Can C++ be 10x Simpler & Safer? - Herb Sutter - CppCon 2022](https://youtu.be/ELeZAKCN4tY)
