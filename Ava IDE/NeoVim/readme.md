@@ -1,5 +1,3 @@
-# Setup:
-
 # Inspire.
 https://www.reddit.com/r/cpp/comments/sbrcx1/comment/hu2z48x/
 >I prefer coc.nvim paired with coc-clangd
