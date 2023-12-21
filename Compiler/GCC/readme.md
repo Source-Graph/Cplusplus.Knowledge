@@ -1,0 +1,1 @@
+- [Code Compilation with GCC for beginners, GCC command line options | Visual Embedded Linux Training](https://youtu.be/6FCg0nJPx-E)
