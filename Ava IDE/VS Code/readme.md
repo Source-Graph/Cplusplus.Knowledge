@@ -1,8 +1,9 @@
 sch: https://www.google.com/search?q=vscode+new+c%2B%2B+project
 
 # Doc:
-- https://code.visualstudio.com/docs/cpp/config-linux
 - https://code.visualstudio.com/docs/languages/cpp
+- https://code.visualstudio.com/docs/cpp/config-linux
+
 
 # Guide:
 video:
