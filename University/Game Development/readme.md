@@ -1,0 +1,1 @@
+- [File I/O for Game Developers: Past, Present, and Future with C++ - Guy Davidson - CppCon 2023](https://youtu.be/1CdduHa-KgA)
