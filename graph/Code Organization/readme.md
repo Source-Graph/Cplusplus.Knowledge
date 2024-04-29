@@ -1,0 +1,1 @@
+- [30m C++ Crash Course! The Best Project Setups for Libs and Apps. Also Standards, and More!](https://youtu.be/7KAhreWsIQI)
