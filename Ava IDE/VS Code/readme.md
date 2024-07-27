@@ -1,7 +1,8 @@
 sch: https://www.google.com/search?q=vscode+new+c%2B%2B+project
 
-# Doc:
+# Home:
 - https://code.visualstudio.com/docs/languages/cpp
+- https://code.visualstudio.com/docs/cpp/introvideos-cpp
 
 ## os:
 - https://code.visualstudio.com/docs/cpp/config-linux
