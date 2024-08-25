@@ -2,6 +2,8 @@ sch: https://www.youtube.com/results?search_query=C%2B%2B
 
 # course:
 - https://www.coursera.org/specializations/coding-for-everyone
+- https://www.coursera.org/specializations/c-programming-linux
+- https://www.coursera.org/learn/c-programming-getting-started
 
 31 hours - freeCodeCamp.org [C++ Programming Course - Beginner to Advanced](https://youtu.be/8jLOx1hD3_o)
  
